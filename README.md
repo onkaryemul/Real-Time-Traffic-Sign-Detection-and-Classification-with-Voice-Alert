@@ -108,9 +108,9 @@ If you encounter issues with automatic installation, you can install playsound m
 
 In the streaming URL entry, you can use the following format for an IP camera:
 
-   ```javascript
-     For general format: http://username:password@IP:PORT/video
-     Example: http://admin:your_password@192.168.1.100:8080/video
+   ```plaintext
+     **For general format:** http://username:password@IP:PORT/video
+     **Example:** http://admin:your_password@192.168.1.100:8080/video
    ```
 
 Make sure to replace 'username', 'password', 'IP', 'PORT', and 'your_password' with the actual credentials and details of your IP camera.
