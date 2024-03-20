@@ -27,7 +27,7 @@ tqdm>=4.41.0
 
 # additional libraries ------------------------
 gtts>=2.4.0  # Google Text-to-Speech library      
-pyttsx3>=2.90  # Text-to-Speech conversion library   
+# pyttsx3>=2.90  # Text-to-Speech conversion library   
 tkinter>=8.6  # GUI toolkit for Python (ensure correct version for your Python installation)
 playsound>=1.3.0  # Library for playing sound     
 
